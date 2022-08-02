@@ -19,7 +19,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Adventure](https://michhkh.github.io/adventure/) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
-[Adventure](https://michhkh.github.io/adventure/)
+### See my work
+
+- [Adventure](https://michhkh.github.io/adventure/)
