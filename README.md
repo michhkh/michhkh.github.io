@@ -1,6 +1,11 @@
 # Welcome to michhkh
 
-## Markdown
+## See my work
+
+- [Adventure](https://michhkh.github.io/adventure/)
+
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -21,7 +26,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-### See my work
-
-- [Adventure](https://michhkh.github.io/adventure/)
