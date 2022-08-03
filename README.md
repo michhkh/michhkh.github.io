@@ -3,6 +3,7 @@
 ## See my work
 
 - [Adventure](https://michhkh.github.io/adventure/)
+- [Collatz](https://michhkh.github.io/collatz/)
 
 
 ### Markdown
