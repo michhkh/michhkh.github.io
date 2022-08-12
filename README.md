@@ -4,6 +4,7 @@
 
 - [Adventure](https://michhkh.github.io/adventure/)
 - [Collatz](https://michhkh.github.io/collatz/)
+- [Invoice Creator](https://michhkh.github.io/invoice-creator/)
 
 
 ### Markdown
