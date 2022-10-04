@@ -5,6 +5,9 @@
 - [Invoice Creator](https://michhkh.github.io/invoice-creator/)
 - [Adventure](https://michhkh.github.io/adventure/)
 - [Collatz](https://michhkh.github.io/collatz/)
+- [React App](https://michhkh.github.io/react-app/)
+- [Unit Converter](https://michhkh.github.io/unit-converter/)
+
 
 
 
